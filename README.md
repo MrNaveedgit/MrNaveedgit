@@ -1,13 +1,12 @@
-## Hello there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am [Madan Baduwal](https://madanbaduwal.github.io).
+## Hello there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am [Naveed Ahmed](https://mrnaveedgit.github.io/naveed/).
 
 ## About
-- 💻 Machine Learning Engineer associtate at [Fusemachines](https://fusemachines.com).
+- 💻 Machine Learning & Data Engineer associtate at [Calrom](https://www.calrom.com/).
 - 💡 Mathematics explorer.
-- ✍️ I also maintain a [blog here](https://madanbaduwal.github.io/), Mostly related to my work and research on Machine Learning. 
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Machine Learning,Computer Vision, NLP, Social intelligence , and General intelligence.
-- 🔭 Read My [publications](https://madanbaduwal.github.io/publications/): 
-- 📃 You can find [my Resume](https://madanbaduwal.github.io/about/) here.
+- 🔭 Read My [publications](https://mrnaveedgit.github.io/naveed/): 
+- 📃 You can find [my Resume](https://mrnaveedgit.github.io/naveed/docs/Naveed_Ahmed_CV.pdf) here.
 
 
 
@@ -23,7 +22,7 @@
   </a>
   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a> -->
+  </a> 
 </p>
 
 <p align="center">
@@ -31,7 +30,7 @@
   <img width="48%" src="https://github.com/MadanBaduwal/MadanBaduwal/blob/main/mina%20object%20detection.gif" alt="Github Swag" />
   
 </p>
-
+-->
 --------
 ## Languages and Tools  
 
