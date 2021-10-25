@@ -1,7 +1,7 @@
 ## Hello there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, I am [Naveed Ahmed](https://mrnaveedgit.github.io/naveed/).
 
 ## About
-- 💻 Machine Learning & Data Engineer associtate at [Calrom](https://www.calrom.com/).
+- 💻 Machine Learning & Data Engineer.
 - 💡 Mathematics explorer.
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Machine Learning,Computer Vision, NLP, Social intelligence , and General intelligence.
