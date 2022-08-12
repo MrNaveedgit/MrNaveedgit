@@ -5,8 +5,7 @@
 - 💡 Mathematics explorer.
 - 🌱 Favourite Quote: Never Give Up.
 - 🔭 Research Interests: Machine Learning,Computer Vision, NLP, Social intelligence , and General intelligence.
-- 🔭 Read My [publications](https://mrnaveedgit.github.io/naveed/): 
-- 📃 You can find [my Resume](https://mrnaveedgit.github.io/naveed/docs/Naveed_Ahmed_CV.pdf) here.
+
 
 
 
